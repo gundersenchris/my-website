@@ -2,6 +2,4 @@
 
 This is a really awesome website
 
-Editing on readme
-
-Updated locally 
+Updates made on master on GitHub bedore rebase
